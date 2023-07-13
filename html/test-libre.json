@@ -1,0 +1,63 @@
+{
+	"org": {
+		"candidate_name": "LibreMT",
+		"website": "https://bp.libremt.com",
+		"code_of_conduct": "https://bp.libremt.com/code-of-conduct.html",
+		"ownership_disclosure": "https://bp.libremt.com/ownership-disclosure.html",
+		"email": "dko@mac.com",
+		"github_user": [],
+		"chain_resources": "",
+		"other_resources": [],
+		"branding": {
+			"logo_256": "https://bp.libremt.com/images/logo-256.png",
+			"logo_1024": "https://bp.libremt.com/images/logo-1024.png",
+			"logo_svg": ""
+		},
+		"location": {
+			"name": "Montana",
+			"country": "US",
+			"latitude": 45.676998,
+			"longitude": -111.042931
+		},
+		"social": {
+			"keybase": "LibreMT",
+			"telegram": "LibreMT",
+			"twitter": "Libre_MT",
+			"github": "dko",
+			"reddit": "LibreMT"
+		}
+	},
+	"nodes": [
+		{
+			"location": {
+				"name": "Montana ",
+				"country": "US",
+				"latitude": 45.676998,
+				"longitude": -111.042931
+			},
+			"node_type": "producer"
+		},
+		{
+			"location": {
+				"name": "Montana",
+				"country": "Montana",
+				"latitude": 45.676998,
+				"longitude": -111.042931
+			},
+			"node_type": "seed",
+			"p2p_endpoint": "p2p.test.libre.libremt.com:9876"
+		},
+		{
+			"location": {
+				"name": "Montana",
+				"country": "US",
+				"latitude": 45.676998,
+				"longitude": -111.042931
+			},
+			"node_type": "query",
+			"api_endpoint": "http://api.test.libre.libremt.com",
+			"ssl_endpoint": "https://api.test.libre.libremt.com"
+		}
+	],
+	"producer_account_name": "libremt"
+}

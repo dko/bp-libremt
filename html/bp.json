@@ -1,0 +1,36 @@
+{
+	"org": {
+		"candidate_name": "LibreMT",
+		"website": "https://bp.libremt.com",
+		"code_of_conduct": "https://bp.libremt.com/code-of-conduct.html",
+		"ownership_disclosure": "https://bp.libremt.com/ownership-disclosure.html",
+		"email": "dko@mac.com",
+		"github_user": [],
+		"chain_resources": "",
+		"other_resources": [],
+		"branding": {
+			"logo_256": "https://bp.libremt.com/images/logo-256.png",
+			"logo_1024": "https://bp.libremt.com/images/logo-1024.png",
+			"logo_svg": ""
+		},
+		"location": {
+			"name": "Montana",
+			"country": "US",
+			"latitude": 45.676998,
+			"longitude": -111.042931
+		},
+		"social": {
+			"keybase": "LibreMT",
+			"telegram": "LibreMT",
+			"twitter": "Libre_MT",
+			"github": "dko",
+			"youtube": "",
+			"facebook": "",
+			"hive": "",
+			"reddit": "LibreMT",
+			"wechat": ""
+		}
+	},
+	"nodes": [],
+	"producer_account_name": "libremt"
+}
